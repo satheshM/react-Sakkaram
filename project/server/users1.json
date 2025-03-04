@@ -1,0 +1,14 @@
+[
+  {
+    "email": "test1@gmail.com",
+    "password": "$2b$10$Z6dPrpph.BmKQ/XRfcajfONaUxM7nzKfL818/bmqaJ9zYZoIBe3uu",
+    "role": "farmer",
+    "createdAt": 2025
+  },
+  {
+    "email": "sathesh99@gmail.com",
+    "password": "$2b$10$hrCuaq2JZDthN5AvCvS9FuIcBnEE2KRw7D7s/Ea/OSMNwIPCoy/eu",
+    "role": "farmer",
+    "createdAt": 2025
+  }
+]
